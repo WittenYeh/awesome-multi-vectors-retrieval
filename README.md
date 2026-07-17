@@ -50,7 +50,7 @@ New to MVR? Follow the field from modeling fundamentals to scalable execution, t
 This list uses a representation-and-scoring definition. A query and/or a candidate is represented by a **set or short sequence of vectors**, the two sides can be encoded independently, and relevance is computed from fine-grained vector interactions. The canonical late-interaction score is **MaxSim / Chamfer similarity**:
 
 $$
-s(Q,D)=\sum_{i=1}^{|Q|}\max_{1\le j\le |D|}\operatorname{sim}(q_i,d_j),
+s(Q,D)=\sum_{i=1}^{|Q|}\max_{1\le j\le |D|}\mathrm{sim}(q_i,d_j),
 $$
 
 but the scope also includes learned alignment, weighted MaxSim, set-to-set search, fixed-cardinality latent vectors, multi-view/aspect representations, and hybrid single-/multi-vector pipelines.
