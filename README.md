@@ -10,7 +10,7 @@
 ```
 <!-- ascii-art:end -->
 
-_Generated with [pyfiglet](https://github.com/pwaller/pyfiglet); run `python3 scripts/generate_ascii_art.py` to refresh it._
+_Generated with [pyfiglet](https://github.com/pwaller/pyfiglet)._
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/license-MIT-f59e0b)](LICENSE)

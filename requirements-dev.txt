@@ -1,2 +1,0 @@
-# GitHub: https://github.com/pwaller/pyfiglet
-pyfiglet==1.0.3
