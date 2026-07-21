@@ -1,12 +1,16 @@
 # Awesome Multi-Vector Retrieval
 
+<!-- ascii-art:start -->
 ```text
-    ___                                                  __  ___ _    __ ____
-   /   | _      __ ___   _____ ____   ____ ___   ___    /  |/  /| |  / // __ \
-  / /| || | /| / // _ \ / ___// __ \ / __ `__ \ / _ \  / /|_/ / | | / // /_/ /
- / ___ || |/ |/ //  __/(__  )/ /_/ // / / / / //  __/ / /  / /  | |/ // _, _/
-/_/  |_|__/|__/ \___//____/ \____//_/ /_/ /_/ \___/ /_/  /_/   |___//_/ |_|
+    _                                           __  ____     ______
+   / \__      _____  ___  ___  _ __ ___   ___  |  \/  \ \   / /  _ \
+  / _ \ \ /\ / / _ \/ __|/ _ \| '_ ` _ \ / _ \ | |\/| |\ \ / /| |_) |
+ / ___ \ V  V /  __/\__ \ (_) | | | | | |  __/ | |  | | \ V / |  _ <
+/_/   \_\_/\_/ \___||___/\___/|_| |_| |_|\___| |_|  |_|  \_/  |_| \_\
 ```
+<!-- ascii-art:end -->
+
+_Generated with [pyfiglet](https://github.com/pwaller/pyfiglet); run `python3 scripts/generate_ascii_art.py` to refresh it._
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/license-MIT-f59e0b)](LICENSE)
